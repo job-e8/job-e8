@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey, I'm Job<br><br>I'm a student developer from the Netherlands who enjoys building projects and learning new technologies.<br><br>Currently working on:<br>- Game development projects<br>- School programming assignments<br>- Improving my coding skills<br><br>Technologies I use:<br>- Javascript & PHP<br>- Laravel & NextJS<br>- HTML / CSS<br>- Git & GitHub<br><br>Goals:<br>- Become a full-stack web developer<br>- Learn NextJS completely<br>- Possibly learn other frameworks
+## Hey, I'm Job<br><br>I'm a student developer from the Netherlands who enjoys building projects and learning new technologies.<br><br>Currently working on:<br>- Web Development<br>- School projects<br>- Bettering Code Skills<br><br>Technologies I use:<br>- Javascript & PHP<br>- Laravel & NextJS<br>- HTML / CSS<br>- Git & GitHub<br><br>Goals:<br>- Become a full-stack web developer<br>- Learn NextJS completely<br>- Possibly learn other frameworks
 
 
 ## 🌐 Socials:
